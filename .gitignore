@@ -2,3 +2,4 @@ systems_list.csv
 .env
 assets.csv
 venv/*
+discovery/results.csv
