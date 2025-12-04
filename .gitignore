@@ -3,3 +3,4 @@ systems_list.csv
 assets.csv
 venv/*
 discovery/results.csv
+tenable_asm_assets.csv
